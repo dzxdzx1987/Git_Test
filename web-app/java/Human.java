@@ -11,6 +11,5 @@ public class Human
 	public String getName(){
 		return this.name;
 	}
-        public void setId(long id)
 
 }
